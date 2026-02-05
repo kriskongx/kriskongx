@@ -22,10 +22,10 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FocusProgram&layout=compact&theme=dark)](https://github.com/FocusProgram)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FocusProgram&layout=compact&theme=dark)](https://github.com/FocusProgram)
 
-[![blog](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=focusprogram.github.io&show_owner=true&theme=dark)](https://github.com/FocusProgram/focusprogram.github.io)
+[![blog](https://github-readme-stats-fast.vercel.app/api/pin/?username=FocusProgram&repo=focusprogram.github.io&show_owner=true&theme=dark)](https://github.com/FocusProgram/focusprogram.github.io)
 
-[![person-improve](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=person-improve&show_owner=true&theme=dark)](https://github.com/FocusProgram/person-improve)
+[![person-improve](https://github-readme-stats-fast.vercel.app/api/pin/?username=FocusProgram&repo=person-improve&show_owner=true&theme=dark)](https://github.com/FocusProgram/person-improve)
 
-[![Mr.Kong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FocusProgram&theme=dark&show_icons=true)](https://github.com/FocusProgram) 
+[![Mr.Kong's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=FocusProgram&theme=dark&show_icons=true)](https://github.com/FocusProgram) 
