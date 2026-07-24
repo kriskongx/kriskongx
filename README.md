@@ -8,7 +8,7 @@
 
 ---
 
-- [个人技术博客](http://blog.focusprogram.top)
+- [个人技术博客](http://blogs.focusprogram.top)
 
 - [Github开源地址](https://github.com/KrisKongX) 
 
